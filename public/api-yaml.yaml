@@ -42,7 +42,7 @@ info:
   contact: {}
 tags: []
 servers:
-  - url: https://api.flights.owenmerry.com
+  - url: https://skyscanner-api.vercel.app
 components:
   schemas:
     DeepLink:
